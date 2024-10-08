@@ -1,5 +1,6 @@
 ## Objective
 The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below.
+<br> Refer to text analysis(pdf) file
 ## Data Extraction
 Input.xlsx
 For each of the articles, given in the input.xlsx file, the article text was extracted and it was saved in a text file with URL_ID as its file name.
